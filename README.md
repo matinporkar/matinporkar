@@ -49,8 +49,8 @@ A collection of JavaScript mini-projects for practice and learning.
 
 ## 📬 Contact
 - GitHub: https://github.com/matinporkar
-- Email: your@email  
-- LinkedIn: (optional)
+- Email: MrPorkar.dev@gmail.com  
+- LinkedIn: [(Matin Porkar)](https://www.linkedin.com/in/matin-porkar/)
 
 ---
 
