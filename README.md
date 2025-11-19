@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Matin
 
 A passionate **Full‑Stack JavaScript Developer in training**, combining hands‑on practice with academic knowledge as a **Computer Engineering student**.  
 I love building clean, functional applications and constantly leveling up my skills across the full web stack.
@@ -42,14 +42,7 @@ I love building clean, functional applications and constantly leveling up my ski
 ---
 
 ## 📁 My Projects
-I build mini‑projects to sharpen my skills. Each project has its own folder and GitHub Pages live demo.
-
-Example Structure:
-- **Project 1** — *Description* → Demo  
-- **Project 2** — *Description* → Demo  
-- **Project 3** — *Description* → Demo  
-
-(You can fill these once your GitHub Pages links are ready.)
+[js-mini-projects-collection](https://github.com/matinporkar/js-mini-projects-collection)
 
 ---
 
