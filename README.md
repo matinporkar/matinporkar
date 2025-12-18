@@ -44,16 +44,16 @@ I love building clean, functional applications and constantly leveling up my ski
 ## 📁 My Projects
 **🔵TypeScript🔵**
 
-A collection of JavaScript mini-projects for practice and learning.
-[js-mini-projects-collection](https://github.com/matinporkar/js-mini-projects-collection)
+A fully functional shopping cart built with TypeScript showcasing product management and checkout logic.
+[TypeScript E-Commerce Cart Application](https://github.com/matinporkar/TypeScript-E-Commerce-Cart-Application)
 
-A collection of JavaScript mini-projects for practice and learning.
-[js-mini-projects-collection](https://github.com/matinporkar/js-mini-projects-collection)
+An interactive TypeScript recipe app allowing users to browse, search, and manage favorite recipes with dynamic UI updates.
+[TypeScript Recipe / Cooking App](https://github.com/matinporkar/TypeScript-Recipe-Cooking-App)
 
 **🟡JavaScrip🟡**
 
-A collection of JavaScript mini-projects for practice and learning.
-[js-mini-projects-collection](https://github.com/matinporkar/js-mini-projects-collection)
+A JavaScript-powered freelance marketplace with advanced search, filtering, and service booking capabilities.
+[Mini Marketplace / Service Booking Platform](https://github.com/matinporkar/Mini-Marketplace-Service-Booking-Platform)
 
 
 ---
