@@ -43,7 +43,6 @@ I love building clean, functional applications and constantly leveling up my ski
 
 ## 📁 My Projects
 **JavaScript:**
-
 A collection of JavaScript mini-projects for practice and learning.
 [js-mini-projects-collection](https://github.com/matinporkar/js-mini-projects-collection)
 
