@@ -42,6 +42,25 @@ I love building clean, functional applications and constantly leveling up my ski
 ---
 
 ## 📁 My Projects
+**🟠Node.js & Express.js🟠**
+
+Full-featured e-commerce platform with authentication and admin management.
+[Node.js E-Commerce Application](https://github.com/matinporkar/Node.js-E-Commerce-Application.git)
+
+RESTful blogging platform with authentication and real-time features.
+[Node.js Blog REST API Application](https://github.com/matinporkar/Node.js-Blog-REST-API-Application.git)
+
+Real-time chat application powered by Socket.IO and Node.js.
+[Node.js and Socket.IO Real-Time Chat Application](https://github.com/matinporkar/Node.js-and-Socket.IO-Real-Time-Chat-Application.git)
+
+**🟢React & Next.js🟢**
+
+Secure authentication with protected routes, admin dashboard and Page Router.
+[Next.js Authentication and Admin Panel (Page Router)](https://github.com/matinporkar/Next.js-Authentication-and-Admin-Panel-Page-Router.git)
+
+Modern admin dashboard with secure authentication and App Router.
+[Next.js Authentication and Admin Panel (App Router)](https://github.com/matinporkar/Next.js-Authentication-and-Admin-Panel-app-Router.git)
+
 **🔵TypeScript🔵**
 
 Interactive shopping cart with dynamic product management.
