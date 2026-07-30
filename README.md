@@ -14,29 +14,33 @@
 ---
 
 ## 🧠 Currently Learning
-- TypeScript deeply  
-- Advanced JavaScript patterns  
-- Full‑Stack Development (React / Next.js + Node.js)  
-- Secure coding practices  
+- Microservices architecture and distributed systems
+- API design and backend scalability
+- Performance optimization for modern web applications
+- Scalable application architecture and system design
+- Secure coding principles and web application security
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**  
-`JavaScript` · `TypeScript` · `Python` · `PHP`
+`JavaScript (ES6+)` · `TypeScript`
 
 **Frontend:**  
-`HTML` · `CSS` · `React` · `Next.js`
+`React` · `Next.js` . `HTML5` · `CSS3` . `Tailwind CSS` . `Redux Toolkit`
 
 **Backend:**  
-`Node.js` · `Express` · `REST APIs`
+`Node.js` · `Express.js` · `RESTfull APIs` . `GraphQL` . `Socket.IO`
 
 **Database:**  
-`MongoDB` · `MySQL`
+`MySQL` . `PostgreSQL` . `MongoDB`
 
-**Other Skills:**  
-`Web Penetration Testing` · `Git` · `Linux`
+**Authentication:**
+`JWT` . ` Session Authentication`
+
+**Tools:**  
+`Git` · `GitHub`
 
 ---
 
