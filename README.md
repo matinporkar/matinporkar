@@ -5,11 +5,11 @@
 ---
 
 ## 🚀 What I Do
--Build modern **full-stack** web applications using **JavaScript, TypeScript, React, and Next.js**
--Develop scalable backend services and **RESTful APIs** with **Node.js and Express**
--Design and integrate **databases** with efficient data models
--Build **responsive, maintainable, and production-ready** applications following modern development best practices
--Continuously explore new technologies and improve software architecture, performance, and code quality
+- Build modern **full-stack** web applications using **JavaScript, TypeScript, React, and Next.js**
+- Develop scalable backend services and **RESTful APIs** with **Node.js and Express**
+- Design and integrate **databases** with efficient data models
+- Build **responsive, maintainable, and production-ready** applications following modern development best practices
+- Continuously explore new technologies and improve software architecture, performance, and code quality
 
 ---
 
