@@ -85,8 +85,3 @@ A marketplace to browse and book freelance services.
 - Email: MrPorkar.dev@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/matin-porkar
 
----
-
-## ✨ Goals
-To become a highly skilled **Full‑Stack JavaScript Developer** capable of building production‑ready, secure, and scalable applications.
-
