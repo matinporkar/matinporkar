@@ -37,7 +37,7 @@
 `MySQL` . `PostgreSQL` . `MongoDB`
 
 **Authentication:**
-`JWT` . ` Session Authentication`
+`JWT` . `Session Authentication`
 
 **Tools:**  
 `Git` · `GitHub`
