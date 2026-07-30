@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Matin
 
-A passionate **Full‑Stack JavaScript Developer in training**, combining hands‑on practice with academic knowledge as a **Computer Engineering student**.  
-I love building clean, functional applications and constantly leveling up my skills across the full web stack.
+**Full-Stack JavaScript Developer** specializing in building modern, scalable web applications with React, Next.js, Node.js and Express. Passionate about creating clean, maintainable, and user-focused solutions while following modern development best practices. Continuously improving my skills by building real-world projects and exploring new technologies across the JavaScript ecosystem.
 
 ---
 
 ## 🚀 What I Do
-- Build web applications using **JavaScript**, **TypeScript**, and modern frameworks  
-- Create backend systems using **Node.js**, **Express**, and **PHP**  
-- Work with databases and full‑stack pipelines  
-- Explore **Python** for scripting, automation, and tooling  
-- Practice **Web Penetration Testing** to understand security from a developer’s perspective  
+-Build modern **full-stack** web applications using **JavaScript, TypeScript, React, and Next.js**
+-Develop scalable backend services and **RESTful APIs** with **Node.js and Express**
+-Design and integrate **databases** with efficient data models
+-Build **responsive, maintainable, and production-ready** applications following modern development best practices
+-Continuously explore new technologies and improve software architecture, performance, and code quality
 
 ---
 
