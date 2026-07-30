@@ -36,7 +36,7 @@
 **Database:**  
 `MySQL` . `PostgreSQL` . `MongoDB`
 
-**Authentication:**
+**Authentication:**  
 `JWT` . `Session Authentication`
 
 **Tools:**  
